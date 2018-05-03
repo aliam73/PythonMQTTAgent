@@ -8,8 +8,6 @@ except IOError:
 
 from setuptools import setup, find_packages
 
-import CloudingThings4Pi
-
 setup(
     name = "CloudingThingsPythonAgent",
     version = "0.1.0",
